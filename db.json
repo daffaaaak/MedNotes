@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"first_name":"Bottle-nose dolphin","category":"Blue"},
+{"id":2,"first_name":"Onager","category":"Red"},
+{"id":3,"first_name":"Macaque, bonnet","category":"Maroon"},
+{"id":4,"first_name":"Heron, striated","category":"Goldenrod"},
+{"id":5,"first_name":"Black spider monkey","category":"Indigo"},
+{"id":6,"first_name":"Macaw, blue and gold","category":"Khaki"},
+{"id":7,"first_name":"Magnificent frigate bird","category":"Puce"},
+{"id":8,"first_name":"White-cheeked pintail","category":"Aquamarine"},
+{"id":9,"first_name":"House crow","category":"Pink"},
+{"id":10,"first_name":"Crown of thorns starfish","category":"Aquamarine"},
+{"id":11,"first_name":"Steller sea lion","category":"Pink"},
+{"id":12,"first_name":"Dragon, frilled","category":"Goldenrod"},
+{"id":13,"first_name":"Coqui partridge","category":"Purple"},
+{"id":14,"first_name":"Whip-tailed wallaby","category":"Goldenrod"},
+{"id":15,"first_name":"Genoveva","category":"Violet"},
+{"id":16,"first_name":"Malabar squirrel","category":"Mauv"},
+{"id":17,"first_name":"Smith's bush squirrel","category":"Teal"},
+{"id":18,"first_name":"Flicker, field","category":"Green"},
+{"id":19,"first_name":"Common brushtail possum","category":"Purple"},
+{"id":20,"first_name":"Hawk, galapagos","category":"Maroon"}
+]
+}
